@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/helloLiM/vue--wheel/issues"
   },
-  "homepage": "https://github.com/helloLiM/vue--wheel#readme"
+  "homepage": "https://github.com/helloLiM/vue--wheel#readme",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
 }
